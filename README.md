@@ -6,12 +6,13 @@ In today’s fast-paced technology landscape, engineers and developers need to s
 
 **Features:**
 
-Centralized Aggregation: Collects updates from a wide range of trusted tech blogs and official sources.
-Notifies users Slack in team's specific channels
-Bookmarking & Sharing: Enables engineers to save, organize, and share key updates with their teams.- Saves time by eliminating the need to manually check multiple sources.
-Keeps engineers and teams up-to-date with minimal effort.
-Supports continuous learning and professional development.
-Configurable source to expand with additional Dev Blogs.
+- Centralized Aggregation: Collects updates from a wide range of trusted tech blogs and official sources.
+- Notifies users Slack in team's specific channels
+- Bookmarking & Sharing: Enables engineers to save, organize, and share key updates with their teams.
+- Saves time by eliminating the need to manually check multiple sources.
+- Keeps engineers and teams up-to-date with minimal effort.
+- Supports continuous learning and professional development.
+- Configurable source to expand with additional Dev Blogs.
 
 **Developer Blog Sources:**
 
@@ -41,3 +42,5 @@ Configurable source to expand with additional Dev Blogs.
 - Zoom Developer Blog
 
 **URL:** https://TechByteBuzz.github.io
+
+

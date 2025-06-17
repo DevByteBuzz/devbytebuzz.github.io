@@ -16,15 +16,28 @@ Configurable source to expand with additional Dev Blogs.
 **Developer Blog Sources:**
 
 - American Express Technology
-- Meta Tech PodCast
-- The Airbnb Tech Blog
-- Capital One Tech Blog
-- Spotify Engineering
-- Slack Engineering
-- Netflix TechBlog
-- Engineering at Meta
+- Benjamin Cane
 - ByteByteGo Newsletter
-- Google Developers Blog
+- Capital One Tech Blog
+- Cloudera Blog
+- Developer Archives - Work Life by Atlassian
+- Docker
+- Dropbox Tech Blog
+- eBay Tech Blog
+- Groupon Product and Engineering
+- Instagram Archives
+- Instagram Engineering
+- Linked In
+- Meta Tech PodCast
+- Shopify Engineering Blog
+- Slack Engineering
+- SoundCloud Backstage Blog
+- Spotify Engineering
+- Square Corner Blog Feed
+- Tech-at-instacart
+- The Airbnb Tech Blog
+- Thumbtack Engineering
 - Uber Blog
+- Zoom Developer Blog
 
 **URL:** https://TechByteBuzz.github.io

@@ -15,16 +15,16 @@ Configurable source to expand with additional Dev Blogs.
 
 **Developer Blog Sources:**
 
-American Express Technology - https://americanexpress.io/posts/
-Meta Tech PodCast - https://engineering.fb.com/tag/meta-tech-podcast/
-The Airbnb Tech Blog - Medium - https://medium.com/airbnb-engineering
-Capital One Tech Blog - https://medium.com/@CapitalOneTech
-Spotify Engineering - https://engineering.atspotify.com/feed/
-Slack Engineering - https://slack.engineering/feed/
-Netflix TechBlog - Medium - https://medium.com/netflix-techblog
-Engineering at Meta - https://engineering.fb.com/feed/
-ByteByteGo Newsletter - https://blog.bytebytego.com/feed
-Google Developers Blog - https://developers.googleblog.com/feed/
-Uber Blog - https://politepol.com/fd/saNoeOj1enUM.xml
+- American Express Technology
+- Meta Tech PodCast
+- The Airbnb Tech Blog
+- Capital One Tech Blog
+- Spotify Engineering
+- Slack Engineering
+- Netflix TechBlog
+- Engineering at Meta
+- ByteByteGo Newsletter
+- Google Developers Blog
+- Uber Blog
 
-**URL:** TechByteBuzz.github.io
+**URL:** https://TechByteBuzz.github.io
